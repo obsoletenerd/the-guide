@@ -6,7 +6,7 @@ This puts basically all of English wikipedia (text only for now, I have some ide
 
 This project is just built for myself and some friends. It may or may not work for you, but it *worked on my machine*.
 
-![The Guide on Xteink X3](/obsoletenerd/the-guide/blob/main/meta/the-guide-search.jpg?raw=true)
+![The Guide on Xteink X3](https://github.com/obsoletenerd/the-guide/blob/main/meta/the-guide-search.jpg?raw=true)
 
 ## Hardware Tested
 
