@@ -1,3 +1,5 @@
+![The Guide on Xteink X3](https://github.com/obsoletenerd/the-guide/blob/main/meta/the-guide-cover.jpg?raw=true)
+
 # The Guide
 
 Life-long project idea of building the "real" Hitchhikers Guide to the Galaxy (the device in the novel, not the novel itself) by putting Wikipedia in my pocket/bag, fully offline and title-searchable. Finally possible thanks to ESP32's and e-ink displays. I've done this same idea many times over the decades, from a Netbook in my backpack in the 2000s to a Raspberry Pi with a 7" LCD display and a huge battery bank, to apps on my iPhone, but none felt like the real HHGTTG until this project now.
