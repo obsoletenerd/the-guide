@@ -6,6 +6,8 @@ This puts basically all of English wikipedia (text only for now, I have some ide
 
 This project is just built for myself and some friends. It may or may not work for you, but it *worked on my machine*.
 
+![The Guide on Xteink X3](/obsoletenerd/the-guide/blob/main/meta/the-guide-search.jpg?raw=true)
+
 ## Hardware Tested
 
 **Xteink X3** — ESP32-C3, no PSRAM, 792×528 UC8253 e-ink, 6 buttons + power, microSD, BQ27220 fuel gauge, DS3231 RTC. See [`hardware/xteink-x3/`](hardware/xteink-x3/).
