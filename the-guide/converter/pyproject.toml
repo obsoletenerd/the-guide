@@ -1,0 +1,11 @@
+[project]
+name = "guidec"
+version = "0.1.0"
+description = "The Guide's ZIM-to-device-pack converter and TUI"
+requires-python = ">=3.12"
+dependencies = [
+    "libzim>=3.10.0",
+    "selectolax>=0.4.10",
+    "tqdm>=4.68.3",
+    "zstandard>=0.25.0",
+]

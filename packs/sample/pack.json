@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "articles": 102,
+  "titles": 5025,
+  "shards": 1,
+  "stride": 64,
+  "source": "wikipedia_en_100_nopic_2026-04.zim",
+  "window_log": 11
+}

@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data packs - only the bundled sample ships in git; everything else is
+# regenerated locally with `guidec build` (see the-guide/converter/README.md
+# and packs/README.md)
+/packs/*
+!/packs/README.md
+!/packs/sample/
+
+# ZIM files (they're big)
+/zim/*.zim
+
+# Personal project notes
+NOTES.md
+PLAN.md
+
+# macOS
+.DS_Store
